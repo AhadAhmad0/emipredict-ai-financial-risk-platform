@@ -2,7 +2,7 @@
 
 *Intelligent Financial Risk Assessment Platform*
 
-**[Live App](https://your-app-url.streamlit.app)** &nbsp;·&nbsp; **[Training Notebook](notebook/emi-prediction.ipynb)** &nbsp;·&nbsp; Built for the Labmentix Data Science Internship
+**[Live App](https://emipredict-ai-financial-risk-platform-ahad.streamlit.app/)** &nbsp;·&nbsp; **[Training Notebook](notebook/emi-prediction.ipynb)** &nbsp;·&nbsp; Built for the Labmentix Data Science Internship
 
 ---
 
