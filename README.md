@@ -62,6 +62,24 @@ Four pages beyond the landing page:
 - **Model Performance** — the comparison tables above, rendered properly, with the winning models highlighted.
 - **Data Management** — a session-based table of everything you've predicted this session, exportable to CSV.
 
+### App Preview
+
+**Home — model status and key metrics at a glance:**
+<img width="1896" height="907" alt="Screenshot 2026-08-24 171851" src="https://github.com/user-attachments/assets/870d8f4a-e024-4241-8eb3-c52bef59c6f0" />
+<img width="1891" height="908" alt="Screenshot 2026-08-24 171903" src="https://github.com/user-attachments/assets/75f4caad-8db9-4080-9056-af5f55405d87" />
+
+**Real-time prediction with confidence breakdown:**
+<img width="1897" height="891" alt="Screenshot 2026-08-24 171937" src="https://github.com/user-attachments/assets/ab7a774d-e725-4271-ab06-3608a00408a5" />
+<img width="1891" height="822" alt="Screenshot 2026-08-24 171946" src="https://github.com/user-attachments/assets/78cd4ceb-a5d6-48a9-a77c-7592a2e124b7" />
+<img width="1512" height="713" alt="Screenshot 2026-08-24 171956" src="https://github.com/user-attachments/assets/8a587cb0-65f1-4399-b218-84588973e075" />
+
+**Model comparison dashboard:**
+<img width="1895" height="912" alt="Screenshot 2026-08-24 172012" src="https://github.com/user-attachments/assets/6e98ff8c-467f-4be9-a76b-cf55da6dd0cb" />
+<img width="1515" height="696" alt="Screenshot 2026-08-24 172025" src="https://github.com/user-attachments/assets/e51f5590-7035-4fa0-abd8-03545c4aca2a" />
+<img width="1517" height="775" alt="Screenshot 2026-08-24 172037" src="https://github.com/user-attachments/assets/270e6431-a15e-461d-a190-8e59ea8d90e6" />
+<img width="1507" height="393" alt="Screenshot 2026-08-24 172045" src="https://github.com/user-attachments/assets/20ed68b5-33a5-4607-a695-b405a2bc3455" />
+
+
 ## Being upfront about the limits
 
 - **Data Explorer needs the raw dataset to render**, and I didn't include it in this repo — it came from Kaggle via the internship and I don't have clear redistribution rights for it. The page shows an honest fallback message instead of a public dataset it shouldn't have. Predictions on the Predict page work completely independently of this.
