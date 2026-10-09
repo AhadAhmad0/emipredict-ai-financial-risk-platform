@@ -7,7 +7,7 @@ A Streamlit app that takes an applicant's financial profile and predicts two thi
 
 It is trained on 404,800 financial profiles across 5 loan types: e-commerce shopping, home appliances, vehicles, personal loans and education.
 
-**[Live app](https://emipredict-ai-financial-risk-platform-ahad.streamlit.app/)** · **[Training notebook](notebook/EMIPredict_AI_Notebook.ipynb)** · Built for the Labmentix AI/ML internship
+**[Live app](https://emipredict-ai-financial-risk-platform-ahad.streamlit.app/)** · **[Training notebook](notebook/EMIPredict_AI_Notebook.ipynb)** ·
 
 ---
 
